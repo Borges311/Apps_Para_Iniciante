@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Jokenpo</string>
+    <string name="appChoice">Escolha do Adversário</string>
+    <string name="belowOptions">Escolha uma opção abaixo</string>
+
+    <!-- opções de seleção -->
+    <string name="stone">Pedra</string>
+    <string name="scissor">Tesoura</string>
+    <string name="paper">Papel</string>
+    <!-- Mensagem para alertDialog -->
+
+    <string name="lost0">Papel embrulha Pedra</string>
+    <string name="win0">Você venceu - Pedra quebra Tesoura</string>
+
+    <string name="win1">Você venceu - Papel embrulha Pedra</string>
+    <string name="lost1">Tesoura corta Papel</string>
+
+    <string name="lost2">Pedra quebra Tesoura</string>
+    <string name="win2">Você venceu - Tesoura corta Papel</string>
+    <string name="draw">Deu empate !</string>
+    <string name="deft">Empate</string>
+    <string name="lostTitle">Você perdeu !</string>
+    <string name="again">Jogue novamente</string>
+    <string name="wwcd">\"Winner Winner, Chicken Dinner !\"</string>
+
+    <string name="close">Fechar</string>
+    <string name="jo">JO</string>
+    <string name="ken">KEN</string>
+    <string name="po">PO</string>
+</resources>
